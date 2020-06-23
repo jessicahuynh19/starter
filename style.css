@@ -11,3 +11,8 @@
     left: 50%;
     transform: translate(-50%, -70%);
 }
+
+.s1 {
+    background-image: url(/img/couch.jpg);
+    background-size: cover;
+}
